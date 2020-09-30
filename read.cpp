@@ -2,8 +2,8 @@
 using namespace std;
 int main(){
 
-cout<<"Hello duni"<<endl;
-cout<<"Sanjeev"<<endl;
+cout<<"Hello duniya"<<endl;
+cout<<"Sanjeev Mishra"<<endl;
 
     return 0;
 }
